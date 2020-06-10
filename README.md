@@ -1,7 +1,8 @@
-Employee managing Service app
+# Employee  managing  Service app
 
-Installation
 
-git clone
-Run Gradle Sync
-Rebuild to generate Dagger classes
+## Installation
+
+1. `git clone `
+2. Run Gradle Sync
+3. Rebuild to generate Dagger classes
